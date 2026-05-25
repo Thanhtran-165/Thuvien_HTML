@@ -9,3 +9,4 @@
 
 # Local-only generated metadata.
 *.log
+.vercel
