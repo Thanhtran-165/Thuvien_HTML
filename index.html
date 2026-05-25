@@ -34,10 +34,6 @@
     }
 
     header {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
-      gap: 28px;
-      align-items: end;
       padding: 30px 0 26px;
       border-bottom: 1px solid var(--line);
     }
@@ -56,29 +52,6 @@
       font-size: 17px;
       line-height: 1.65;
       color: var(--muted);
-    }
-
-    .donate {
-      width: 176px;
-      background: #fff;
-      border: 1px solid var(--line);
-      border-radius: 8px;
-      padding: 10px;
-      box-shadow: var(--shadow);
-    }
-
-    .donate img {
-      display: block;
-      width: 100%;
-      border-radius: 6px;
-    }
-
-    .donate span {
-      display: block;
-      margin-top: 8px;
-      color: var(--muted);
-      font-size: 12px;
-      text-align: center;
     }
 
     .toolbar {
@@ -257,7 +230,6 @@
 
     @media (max-width: 820px) {
       header, .toolbar, .grid, .stats { grid-template-columns: 1fr; }
-      .donate { width: min(220px, 100%); }
       .shell { padding-inline: 16px; }
     }
   </style>
@@ -272,10 +244,6 @@
           báo cáo và tài liệu nghiên cứu. Mở nhanh, lọc nhanh, đánh dấu trạng thái đọc ngay trên trình duyệt.
         </p>
       </div>
-      <aside class="donate">
-        <img src="assets/donate.jpg" alt="QR donate Trần Đình Thành" />
-        <span>Ủng hộ việc đọc và chuyển hóa tài liệu</span>
-      </aside>
     </header>
 
     <section class="toolbar" aria-label="Bộ lọc thư viện">
