@@ -1,106 +1,44 @@
-# Thư viện slide nghiên cứu cộng đồng
+# Cùng đọc tài liệu
 
-Repo này lưu các slide HTML mình tạo ra trong quá trình đọc sách, báo cáo, nghiên cứu và tài liệu chuyên sâu. Mục tiêu rất đơn giản: mình đọc gì, cộng đồng có thể cùng đọc và nghiên cứu cái đó qua một bản slide dễ tiếp cận hơn.
+Đây là nơi mình chia sẻ các bản slide HTML được tạo trong quá trình đọc sách, báo cáo và tài liệu nghiên cứu.
 
-Các deck ở đây không nhằm thay thế tài liệu gốc. Chúng là bản tổng hợp, diễn giải, trực quan hóa và tổ chức lại nội dung để việc học, thảo luận và tra cứu nhanh hơn.
+Mục tiêu của repo này không phải là lưu trữ file kỹ thuật. Mục tiêu là giúp nhiều người cùng đọc một tài liệu nhanh hơn: có bối cảnh, có mạch lập luận, có biểu đồ, có điểm chính và có thể mở trực tiếp trên trình duyệt.
 
-## Đang có gì?
+## Slide hiện có
 
-| Nhóm | Chủ đề | Slide HTML | Ghi chú |
-|---|---|---|---|
-| Chứng khoán | Volume Analysis | [Mở slide](Chứng%20khoán/volume-analysis-full/index.html) | Chuyển hóa tài liệu về phân tích volume thành deck HTML 92 slide |
+| Chủ đề | Mở slide | Nội dung |
+|---|---|---|
+| Phân tích Volume | [Volume Analysis](Chứng%20khoán/volume-analysis-full/index.html) | 92 slide về cách đọc volume, nỗ lực - kết quả, xác nhận xu hướng và các tín hiệu đảo chiều |
 
-Mỗi deck thường có:
+## Cách dùng
 
-- `index.html`: file slide HTML có thể mở trực tiếp trên trình duyệt.
-- `assets/`: JavaScript, hình ảnh, chart assets và tài nguyên hiển thị.
-- `input/` hoặc file nguồn đính kèm nếu được phép chia sẻ.
+Mở link slide, sau đó dùng:
 
-## Cách đọc slide
+- `→` hoặc `Space` để sang slide tiếp theo
+- `←` để quay lại
+- `Home` / `End` để về đầu hoặc cuối
+- `F` để xem toàn màn hình
 
-Mở file `index.html` của từng deck trên trình duyệt.
+## Tinh thần của repo
 
-Phím điều hướng:
+Mình đọc gì, nếu thấy đáng chia sẻ, mình sẽ cố gắng chuyển nó thành một deck HTML để mọi người cùng nghiên cứu.
 
-- `←` / `→`: lùi / tới slide
-- `Space`: tới slide kế tiếp
-- `Home` / `End`: về đầu / tới cuối deck
-- `F`: fullscreen
+Các slide là bản tổng hợp và diễn giải lại, không thay thế tài liệu gốc. Nếu một chủ đề quan trọng với quyết định của bạn, hãy đọc lại nguồn gốc, đối chiếu dữ kiện và tự chịu trách nhiệm với kết luận của mình.
 
-Nếu repo được publish bằng GitHub Pages, link public sẽ có dạng:
+## Lưu ý
 
-```text
-https://<username>.github.io/<repo>/<folder>/<deck-folder>/
-```
+Một số nội dung có thể liên quan tới thị trường, tài chính hoặc chứng khoán. Tất cả chỉ phục vụ học tập và nghiên cứu, không phải khuyến nghị mua bán hay lời khuyên đầu tư.
 
-Ví dụ:
+## Góp ý
 
-```text
-https://<username>.github.io/<repo>/Chu%CC%9B%CC%81ng%20khoa%CC%81n/volume-analysis-full/
-```
+Nếu bạn thấy slide sai, thiếu nguồn, khó đọc hoặc có chủ đề đáng làm tiếp, hãy mở issue hoặc gửi góp ý.
 
-## Nguyên tắc chia sẻ
+## Ủng hộ
 
-- Slide được viết cho mục đích học tập, nghiên cứu và thảo luận cộng đồng.
-- Nội dung có thể được tóm tắt, cấu trúc lại, trực quan hóa và diễn giải lại từ tài liệu gốc.
-- Số liệu, chart, bảng và trích dẫn nên có nguồn trong slide hoặc trong file nguồn kèm theo.
-- Vui lòng tự kiểm tra tài liệu gốc trước khi dùng cho quyết định đầu tư, pháp lý, y tế, tài chính hoặc công việc có rủi ro cao.
-- Nếu tài liệu gốc có bản quyền, chỉ publish file nguồn khi bạn có quyền chia sẻ. Nếu không, chỉ nên publish slide tổng hợp và dẫn nguồn hợp lệ.
+Nếu các slide này giúp bạn tiết kiệm thời gian đọc và nghiên cứu, bạn có thể ủng hộ để mình tiếp tục làm thêm các bản đọc công khai.
 
-## Không phải lời khuyên đầu tư
-
-Một số slide có thể liên quan đến thị trường, tài chính hoặc chứng khoán. Nội dung trong repo này chỉ phục vụ học tập và nghiên cứu, không phải khuyến nghị mua bán hay lời khuyên đầu tư.
-
-## Assets
-
-Repo có thư mục `assets/` cho tài nguyên dùng chung:
-
-- `assets/donate.svg`: thẻ donate dùng trong README.
-- Có thể thay bằng ảnh QR thật tại `assets/donate.png` nếu muốn hiển thị QR chuyển khoản trực tiếp.
-
-## Đóng góp
-
-Bạn có thể đóng góp bằng cách:
-
-- Báo lỗi hiển thị trong slide.
-- Đề xuất sách, báo cáo hoặc tài liệu nên chuyển thành slide.
-- Tạo issue nếu phát hiện nội dung sai, thiếu nguồn, chart khó đọc hoặc cần bổ sung góc nhìn.
-- Chia sẻ repo cho người cùng quan tâm.
-
-## Ủng hộ dự án
-
-Nếu các slide này giúp bạn tiết kiệm thời gian đọc và nghiên cứu, bạn có thể ủng hộ để mình tiếp tục chuyển hóa thêm sách, báo cáo và tài liệu chuyên sâu thành slide công khai.
-
-![Donate](assets/donate.svg)
-
-Thông tin donate:
-
-- Tên: Trần Đình Thành
+- Trần Đình Thành
 - STK: `*******132`
-- Kênh: MoMo / VietQR / NAPAS 247
+- MoMo / VietQR / NAPAS 247
 
-Nếu bạn có ảnh QR gốc, lưu vào `assets/donate.png` và đổi dòng ảnh trong README thành:
-
-```md
-![Donate](assets/donate.png)
-```
-
-## Cấu trúc repo
-
-```text
-.
-├── README.md
-├── assets/
-│   └── donate.svg
-└── Chứng khoán/
-    └── volume-analysis-full/
-        ├── index.html
-        ├── assets/
-        └── input/ hoặc file nguồn nếu được phép chia sẻ
-```
-
-## License và ghi chú bản quyền
-
-Phần slide do mình tạo ra có thể được chia sẻ cho mục đích học tập và nghiên cứu cộng đồng, trừ khi từng deck có ghi chú khác.
-
-Tài liệu gốc, sách, hình ảnh và dữ liệu bên thứ ba vẫn thuộc về chủ sở hữu tương ứng. Khi fork, chia sẻ lại hoặc trích dẫn, vui lòng tôn trọng license và bản quyền của nguồn gốc.
+Mình không để QR placeholder trong repo. Khi có ảnh QR thật và kiểm tra được, mình sẽ thêm lại.
