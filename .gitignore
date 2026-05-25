@@ -1,2 +1,11 @@
-volume-analysis-full/.DS_Store
-*.DS_Store
+.DS_Store
+**/.DS_Store
+
+# Do not publish original books/source PDFs unless rights are explicitly cleared.
+*.pdf
+*.epub
+*.mobi
+*.azw
+
+# Local-only generated metadata.
+*.log
