@@ -20,5 +20,27 @@
     "source": "Principles - Life and Work",
     "description": "Bản đọc hệ thống hóa các nguyên tắc sống, làm việc, ra quyết định.",
     "tags": ["principles", "decision making", "life", "work"]
+  },
+  {
+    "id": "how-to-make-money-in-stocks",
+    "title": "How to Make Money in Stocks",
+    "category": "Chứng khoán",
+    "path": "can-slim-how-to-make-money-in-stocks/index.html",
+    "slides": 55,
+    "status": "published",
+    "source": "How to Make Money in Stocks",
+    "description": "Bản đọc về hệ thống CAN SLIM, cách chọn cổ phiếu tăng trưởng và quản trị điểm mua bán.",
+    "tags": ["CAN SLIM", "growth stocks", "chart patterns", "risk management"]
+  },
+  {
+    "id": "chart-your-way-to-profits",
+    "title": "Chart Your Way to Profits",
+    "category": "Chứng khoán",
+    "path": "chart-your-way-to-profits/index.html",
+    "slides": 72,
+    "status": "published",
+    "source": "Chart Your Way to Profits",
+    "description": "Bản đọc về phân tích kỹ thuật, mô hình giá, xu hướng, hỗ trợ kháng cự và công cụ charting.",
+    "tags": ["technical analysis", "chart patterns", "trendlines", "support resistance"]
   }
 ]

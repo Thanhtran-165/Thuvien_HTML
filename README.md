@@ -10,6 +10,8 @@ Mục tiêu của repo này là biến những tài liệu đáng đọc thành 
 |---|---|---|
 | Chứng khoán | [Volume Analysis](Chứng%20khoán/volume-analysis-full/index.html) | 92 trang đọc về volume, nỗ lực - kết quả, xác nhận xu hướng và các tín hiệu đảo chiều |
 | Life | [Principles: Life and Work](Life/principles-life-and-work/index.html) | 33 trang đọc về nguyên tắc sống, làm việc và ra quyết định |
+| Chứng khoán | [How to Make Money in Stocks](can-slim-how-to-make-money-in-stocks/index.html) | 55 trang đọc về hệ thống CAN SLIM, cổ phiếu tăng trưởng và quản trị điểm mua bán |
+| Chứng khoán | [Chart Your Way to Profits](chart-your-way-to-profits/index.html) | 72 trang đọc về phân tích kỹ thuật, mô hình giá, xu hướng và hỗ trợ kháng cự |
 
 ## Cách dùng
 
