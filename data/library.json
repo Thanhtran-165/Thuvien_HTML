@@ -1,0 +1,24 @@
+[
+  {
+    "id": "volume-analysis-full",
+    "title": "Volume Analysis",
+    "category": "Chứng khoán",
+    "path": "Chứng khoán/volume-analysis-full/index.html",
+    "slides": 92,
+    "status": "published",
+    "source": "Investing with Volume Analysis",
+    "description": "Cách đọc volume, nỗ lực - kết quả, xác nhận xu hướng và các tín hiệu đảo chiều.",
+    "tags": ["volume", "technical analysis", "wyckoff", "price action"]
+  },
+  {
+    "id": "principles-life-and-work",
+    "title": "Principles: Life and Work",
+    "category": "Sách & tư duy",
+    "path": "principles-life-and-work/index.html",
+    "slides": 33,
+    "status": "draft",
+    "source": "Principles - Life and Work",
+    "description": "Bản slide đọc và hệ thống hóa các nguyên tắc sống, làm việc, ra quyết định.",
+    "tags": ["principles", "decision making", "life", "work"]
+  }
+]
