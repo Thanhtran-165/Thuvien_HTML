@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+
+# Never deploy original source documents or processed input folders.
+input/
+**/input/
+*.pdf
+*.epub
+*.mobi
+*.azw
+
+# Local-only deployment metadata.
+.vercel/
+*.log
