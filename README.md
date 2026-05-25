@@ -41,10 +41,4 @@ Nếu các slide này giúp bạn tiết kiệm thời gian đọc và nghiên c
 - STK: `*******132`
 - MoMo / VietQR / NAPAS 247
 
-QR donate là tài nguyên chung của toàn dự án và được đặt ở root repo:
-
-```text
-assets/donate.png
-```
-
-Mình không dùng QR placeholder. Khi file `assets/donate.png` là ảnh QR thật, README sẽ hiển thị QR trực tiếp tại đây.
+![QR donate](assets/donate.jpg)
