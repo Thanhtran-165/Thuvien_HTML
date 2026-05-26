@@ -8,10 +8,14 @@ Mục tiêu của repo này là biến những tài liệu đáng đọc thành 
 
 | Kệ | Tài liệu | Nội dung |
 |---|---|---|
-| Chứng khoán | [Volume Analysis](Chứng%20khoán/volume-analysis-full/index.html) | 92 trang đọc về volume, nỗ lực - kết quả, xác nhận xu hướng và các tín hiệu đảo chiều |
+| Chứng khoán | [Volume Analysis](Chứng%20khoán/volume-analysis-full/index.html) | 92 trang đọc về volume, nỗ lực - kết quả, xác nhận xu hướng và các tín hiệu đảo chiều |
 | Life | [Principles: Life and Work](Life/principles-life-and-work/index.html) | 33 trang đọc về nguyên tắc sống, làm việc và ra quyết định |
-| Chứng khoán | [How to Make Money in Stocks](can-slim-how-to-make-money-in-stocks/index.html) | 55 trang đọc về hệ thống CAN SLIM, cổ phiếu tăng trưởng và quản trị điểm mua bán |
-| Chứng khoán | [Chart Your Way to Profits](chart-your-way-to-profits/index.html) | 72 trang đọc về phân tích kỹ thuật, mô hình giá, xu hướng và hỗ trợ kháng cự |
+| Chứng khoán | [How to Make Money in Stocks](Chứng%20khoán/can-slim-how-to-make-money-in-stocks/index.html) | 55 trang đọc về hệ thống CAN SLIM, cổ phiếu tăng trưởng và quản trị điểm mua bán |
+| Chứng khoán | [Chart Your Way to Profits](Chứng%20khoán/chart-your-way-to-profits/index.html) | 72 trang đọc về phân tích kỹ thuật, mô hình giá, xu hướng và hỗ trợ kháng cự |
+| Chứng khoán | [Beyond Candlesticks](Chứng%20khoán/beyond-candlesticks/index.html) | 92 trang đọc về nến Nhật nâng cao, bối cảnh thị trường và hành vi giá |
+| Chứng khoán | [Reminiscences of a Stock Operator](Chứng%20khoán/reminiscences-stock-operator/index.html) | 50 trang đọc về tâm lý đầu cơ, kỷ luật giao dịch và bài học từ Jesse Livermore |
+| Chứng khoán | [Chiến Thuật Giao Dịch Kỹ Thuật Toàn Tập](Chứng%20khoán/technical-trading-tactics/index.html) | 75 trang đọc về chiến thuật giao dịch kỹ thuật, quản trị vị thế và thực thi |
+| Chứng khoán | [Jesse Livermore - Huyền Thoại Phố Wall](Chứng%20khoán/jesse-livermore-legend/index.html) | 40 trang đọc về cuộc đời, phương pháp và nguyên tắc giao dịch của Jesse Livermore |
 
 ## Cách dùng
 
