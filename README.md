@@ -16,6 +16,8 @@ Mục tiêu của repo này là biến những tài liệu đáng đọc thành 
 | Chứng khoán | [Reminiscences of a Stock Operator](Chứng%20khoán/reminiscences-stock-operator/index.html) | 50 trang đọc về tâm lý đầu cơ, kỷ luật giao dịch và bài học từ Jesse Livermore |
 | Chứng khoán | [Chiến Thuật Giao Dịch Kỹ Thuật Toàn Tập](Chứng%20khoán/technical-trading-tactics/index.html) | 75 trang đọc về chiến thuật giao dịch kỹ thuật, quản trị vị thế và thực thi |
 | Chứng khoán | [Jesse Livermore - Huyền Thoại Phố Wall](Chứng%20khoán/jesse-livermore-legend/index.html) | 40 trang đọc về cuộc đời, phương pháp và nguyên tắc giao dịch của Jesse Livermore |
+| Chứng khoán | [Technical Analysis of Stock Trends Explained](Chứng%20khoán/technical-analysis-stock-trends/index.html) | 62 trang đọc về phân tích kỹ thuật, nến, momentum và cách xác nhận tín hiệu |
+| Chứng khoán | [Volume Price Analysis](Chứng%20khoán/volume-price-analysis/index.html) | 55 trang đọc về mối liên hệ giữa khối lượng và giá, phân kỳ, tích lũy và tín hiệu xu hướng |
 
 ## Cách dùng
 

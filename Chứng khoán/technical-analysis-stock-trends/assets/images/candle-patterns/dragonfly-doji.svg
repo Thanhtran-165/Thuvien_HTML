@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" width="120" height="200">
+  <line x1="60" y1="50" x2="60" y2="140" stroke="#1a1a2e" stroke-width="2"/>
+  <circle cx="60" cy="95" r="3" fill="#1a1a2e"/>
+  <text x="60" y="198" text-anchor="middle" font-size="11" fill="#1a1a2e" font-family="sans-serif">Dragonfly Doji</text>
+</svg>

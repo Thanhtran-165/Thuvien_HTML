@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 280" fill="none">
+  <rect width="520" height="280" rx="12" fill="#1a1f2e"/>
+  <text x="260" y="28" text-anchor="middle" fill="#ea580c" font-family="Inter,sans-serif" font-size="15" font-weight="bold">Xác Nhận vs Bất Thường (Anomaly)</text>
+  <text x="140" y="55" text-anchor="middle" fill="#16a34a" font-family="Inter,sans-serif" font-size="13" font-weight="bold">XÁC NHẬN ✓</text>
+  <rect x="30" y="65" width="220" height="90" rx="8" fill="#0d1117" stroke="#16a34a" stroke-width="1" opacity="0.8"/>
+  <text x="50" y="88" fill="#e6edf3" font-family="Inter,sans-serif" font-size="10">Spread rộng + Volume cao</text>
+  <rect x="50" y="98" width="40" height="40" rx="2" fill="#16a34a" opacity="0.6"/>
+  <rect x="100" y="98" width="10" height="40" rx="1" fill="#16a34a" opacity="0.8"/>
+  <text x="130" y="112" fill="#7d8590" font-family="Inter,sans-serif" font-size="9">Nỗ lực = Kết quả</text>
+  <text x="130" y="126" fill="#16a34a" font-family="Inter,sans-serif" font-size="9" font-weight="bold">→ Di chuyển thật</text>
+  <rect x="30" y="165" width="220" height="90" rx="8" fill="#0d1117" stroke="#16a34a" stroke-width="1" opacity="0.8"/>
+  <text x="50" y="188" fill="#e6edf3" font-family="Inter,sans-serif" font-size="10">Spread hẹp + Volume thấp</text>
+  <rect x="50" y="198" width="8" height="15" rx="1" fill="#16a34a" opacity="0.4"/>
+  <rect x="70" y="198" width="4" height="15" rx="1" fill="#16a34a" opacity="0.3"/>
+  <text x="100" y="210" fill="#7d8590" font-family="Inter,sans-serif" font-size="9">Ít nỗ lực = Ít kết quả</text>
+  <text x="100" y="224" fill="#16a34a" font-family="Inter,sans-serif" font-size="9" font-weight="bold">→ Nghỉ ngơi bình thường</text>
+  <text x="380" y="55" text-anchor="middle" fill="#dc2626" font-family="Inter,sans-serif" font-size="13" font-weight="bold">BẤT THƯỜNG ✗</text>
+  <rect x="270" y="65" width="220" height="90" rx="8" fill="#0d1117" stroke="#dc2626" stroke-width="1" opacity="0.8"/>
+  <text x="290" y="88" fill="#e6edf3" font-family="Inter,sans-serif" font-size="10">Spread rộng + Volume thấp</text>
+  <rect x="290" y="98" width="40" height="40" rx="2" fill="#dc2626" opacity="0.5"/>
+  <rect x="345" y="115" width="4" height="23" rx="1" fill="#dc2626" opacity="0.4"/>
+  <text x="370" y="112" fill="#7d8590" font-family="Inter,sans-serif" font-size="9">Kết quả lớn</text>
+  <text x="370" y="126" fill="#dc2626" font-family="Inter,sans-serif" font-size="9" font-weight="bold">⚠ Không có nỗ lực!</text>
+  <rect x="270" y="165" width="220" height="90" rx="8" fill="#0d1117" stroke="#dc2626" stroke-width="1" opacity="0.8"/>
+  <text x="290" y="188" fill="#e6edf3" font-family="Inter,sans-serif" font-size="10">Spread hẹp + Volume cao</text>
+  <rect x="290" y="198" width="8" height="15" rx="1" fill="#dc2626" opacity="0.4"/>
+  <rect x="310" y="192" width="12" height="40" rx="1" fill="#dc2626" opacity="0.7"/>
+  <text x="345" y="210" fill="#7d8590" font-family="Inter,sans-serif" font-size="9">Nhiều nỗ lực</text>
+  <text x="345" y="224" fill="#dc2626" font-family="Inter,sans-serif" font-size="9" font-weight="bold">⚠ Giá không đi!</text>
+  <text x="260" y="272" text-anchor="middle" fill="#f59e0b" font-family="Inter,sans-serif" font-size="10" font-weight="bold">Luật 3 Wyckoff: Volume ≠ Giá → ALARM BELL</text>
+</svg>
