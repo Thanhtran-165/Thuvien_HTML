@@ -9,3 +9,6 @@
 
 # Local-only generated metadata.
 *.log
+
+# Ignore generated deck input folders
+**/input/
